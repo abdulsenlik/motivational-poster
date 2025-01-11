@@ -1,0 +1,19 @@
+
+body{
+
+    background-color: black;
+    text-align: center;
+}
+
+.poster {
+  font-family: "Libre Baskerville", serif;
+  border: 10px white solid;
+  
+}
+h1{
+  color: aqua;
+
+}
+p{
+  color: red;
+}
